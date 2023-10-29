@@ -1,0 +1,38 @@
+*{
+
+    margin: 0;
+    padding: 10px;
+}
+image{
+
+
+}
+.h{
+    background-color: rgba(1, 1, 61, 0.329);
+font-size: 34px;
+    font-weight: bolder;
+}
+.box{
+    background-color: rgba(93, 0, 185, 0.212);
+   
+
+    text-decoration: none;
+display: flex;
+flex-direction: column;
+box-sizing: border-box;
+box-shadow: 20%;
+text-align: center;
+justify-content: space-around;
+
+
+}
+
+
+
+.t{
+
+font-family: Impact, 'Arial Narrow Bold', sans-serif;
+
+color: rgb(43, 42, 42);
+
+}
